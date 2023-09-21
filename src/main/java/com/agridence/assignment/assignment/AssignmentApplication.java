@@ -1,13 +1,13 @@
-package com.agridence.assigment.assigment;
+package com.agridence.assignment.assignment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AssigmentApplication {
+public class AssignmentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AssigmentApplication.class, args);
+		SpringApplication.run(AssignmentApplication.class, args);
 	}
 
 }

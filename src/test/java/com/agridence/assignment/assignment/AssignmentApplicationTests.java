@@ -1,10 +1,10 @@
-package com.agridence.assigment.assigment;
+package com.agridence.assignment.assignment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AssigmentApplicationTests {
+class AssignmentApplicationTests {
 
 	@Test
 	void contextLoads() {
