@@ -27,7 +27,10 @@ replay_pid*
 .vscode/
 
 ### Some additional ignores (sort later)
-*.DS_Store
+!**/src/main/**
+!**/src/test/**
+.DS_Store
+**/.DS_Store
 *.sw?
 .#*
 *#
