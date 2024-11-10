@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 @RestController	
 public class SampleController {
 	
-	@GetMapping("/")
+	@GetMapping("/index")
 		public String index() {
 			return "Welcome to spring boot assignment!";
 		}
